@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "mileage": 0,
+         "activityDate": "1725854400"
+    },
+    {
+        "id": 1,
+        "mileage": 8.1,
+        "activityDate": "1725980820"
+    },
+    {
+        "id": 2,
+        "mileage": 10.65,
+        "activityDate": "1726071180"
+    },
+    {
+        "id": 3,
+        "mileage": 7.2,
+        "activityDate": "1726170360"
+    },
+    {
+        "id": 4, 
+        "mileage": 7.5,
+        "activityDate": "1726237500"
+    },
+    {
+        "id": 5,
+        "mileage": 8,
+        "activityDate": "1726326240"
+    },
+    {
+        "id": 6,
+        "mileage": 9,
+        "activityDate": "1726414980"
+    }
+]
